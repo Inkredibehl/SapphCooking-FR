@@ -1,0 +1,29 @@
+Tooltip_FR = {
+--
+	Tooltip_OilPan = "Il a besoin de chaleur pour être utilisable.",
+	Tooltip_WaterPan = "Doit être cuit.",
+	Tooltip_AsiaFoodMagazine = "Enseigne des recettes asiatiques.",
+	Tooltip_EuropeFoodMagazine = "Enseigne des recettes européennes.",
+	Tooltip_PastaDoughMagazine = "Enseigne des recettes de pâtes.",
+	Tooltip_HotWater = "Combiner avec de l'eau chaude.",
+	Tooltip_EmptyThermos = "Peut être utilisé pour stocker de l'eau, des boissons ou des soupes.",
+	Tooltip_CookedBowls = "Peut être placé dans des bols après cuisson.",
+	Tooltip_CookedSlices = "Peut être tranché après cuisson.",
+	Tooltip_CornPopcorn = "Peut être transformé en Popcorn.",
+	Tooltip_Stock = "Peut être utilisé pour le stockage, les soupes ou les ragoûts.",
+	Tooltip_IceCubes = "Quand remplit avec de l'eau, peut faire des glaçons si placé près d'un réfrigérateur électrifié.",
+	Tooltip_SausagesMagazine = "Enseigne l'art de la boucherie et comment faire des saucisses."	
+
+	Tooltip_Fortune1 = "'L'expérience est le meilleur enseignant de la vie.'",
+	Tooltip_Fortune2 = "'Vivez cette journée comme si c'était votre dernière.'",
+	Tooltip_Fortune3 = "'Il n'y a pas de regrets dans la vie. Juste des leçons.'",
+	Tooltip_Fortune4 = "'Laissez-vous rêver à nouveau.'",
+	Tooltip_Fortune5 = "'Transformez vos blessures en sagesse.'",
+	Tooltip_Fortune6 = "'Regardez jusqu'où vous êtes arrivé.'",
+	Tooltip_Fortune7 = "'Méfiez-vous du Chien Gobelin.'",
+	Tooltip_Fortune8 = "'À quoi bon être, si vous n'êtes pas vous-même ?'",
+	Tooltip_Fortune9 = "'À quoi servent les ailes, sans le courage de voler.'",
+	Tooltip_Fortune10 = "'Petit à petit, on voyage loin.'",
+
+	Tooltip_LunarNewYear = "Généralement mangé pendant le Nouvel An lunaire, dans ce cas, Bonne année",
+} 	
